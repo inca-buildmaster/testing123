@@ -9,5 +9,5 @@ func main() {
 	fmt.Println("Bonjour!")
 	fmt.Println("Namaste!")
         fmt.Println("Ni hao!")
-        fmt.Println("Zdavejte!")
+        fmt.Println("Zdravejte!")
 }
