@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	fmt.Println("Habari gani?")
-        fmt.Println("Hola!")
+	fmt.Println("Hola!")
 	fmt.Println("Bonjour!")
-   fmt.Println("Getten Morgen")
+	fmt.Println("Buenos Noches")
 }
