@@ -1,7 +1,7 @@
 
 
 app: main.cpp
-	sleep 60
+	sleep 420
 	g++ -o app main.cpp
 
 clean:
