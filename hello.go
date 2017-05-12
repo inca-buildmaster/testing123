@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Namaste!")
         fmt.Println("Ni hao!")
         fmt.Println("Zdravejte!")
+        fmt.Println("Czesc")
 }
